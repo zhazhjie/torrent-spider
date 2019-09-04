@@ -1,0 +1,32 @@
+{
+  "name": "torrent-spider",
+  "version": "1.0.0",
+  "description": "torrent-spider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^2.0.0",
+    "connect-history-api-fallback": "^1.5.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "express-ws": "^3.0.0",
+    "fs-extra": "^6.0.1",
+    "jquery": "^3.3.1",
+    "jsdom": "^11.10.0",
+    "mongodb": "^3.1.1",
+    "multer": "^1.3.0",
+    "nodemailer": "^4.6.4",
+    "request": "^2.86.0",
+    "request-promise": "^4.2.2",
+    "session-file-store": "^1.2.0",
+    "socket.io": "^2.1.1",
+    "vhost": "^3.0.2",
+    "ws": "^5.2.0",
+    "xml2map": "^1.0.2"
+  }
+}
